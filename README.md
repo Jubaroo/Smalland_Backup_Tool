@@ -10,3 +10,5 @@
      - Dark Mode: Toggles dark mode on/off.
      - Language: Allows you to select the language for the application.
 3. The console at the bottom of the GUI displays log messages about the backup process.
+
+![Screenshot](https://cdn.discordapp.com/attachments/1092971126403104778/1215579972425482292/image.png?ex=65fd4411&is=65eacf11&hm=e46c80c21e83e551074e82a462abb9670664a800f1a03c554e5d374891f21fc6)
